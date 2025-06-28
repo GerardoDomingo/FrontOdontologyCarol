@@ -67,7 +67,7 @@ import { es } from 'date-fns/locale';
 import axios from 'axios';
 import { useAuth } from '../../../components/Tools/AuthContext';
 import Notificaciones from '../../../components/Layout/Notificaciones';
-
+//nuevo cambio 
 const PacienteFinanzasView = () => {
   const { user } = useAuth();
   const theme = useTheme();

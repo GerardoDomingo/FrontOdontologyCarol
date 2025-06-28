@@ -63,7 +63,7 @@ import {
   Email,
   LocalHospital
 } from '@mui/icons-material';
-
+//gestor de pagos
 const GestorPagos = ({ open, onClose, onPagoRealizado }) => {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
