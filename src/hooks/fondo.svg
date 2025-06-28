@@ -1,0 +1,302 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="turquoise" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#40E0D0"/>
+      <stop offset="100%" style="stop-color:#48d1cc"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF69B4"/>
+      <stop offset="100%" style="stop-color:#FFB6C1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Replicación horizontal y vertical del patrón original -->
+  
+  <!-- Esquina superior izquierda (patrón original) -->
+  <!-- Primera fila de triángulos -->
+  <path d="M0 0 L120 40 L60 120 Z" fill="url(#turquoise)"/>
+  <path d="M120 40 L200 0 L180 100 Z" fill="url(#pink)"/>
+  <path d="M200 0 L320 50 L250 130 Z" fill="url(#turquoise)"/>
+  <path d="M320 50 L400 0 L380 120 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M60 120 L180 100 L130 200 Z" fill="url(#pink)"/>
+  <path d="M180 100 L250 130 L220 210 Z" fill="url(#turquoise)"/>
+  <path d="M250 130 L380 120 L300 220 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M0 180 L130 200 L80 300 Z" fill="url(#turquoise)"/>
+  <path d="M130 200 L220 210 L180 320 Z" fill="url(#pink)"/>
+  <path d="M220 210 L300 220 L270 350 Z" fill="url(#turquoise)"/>
+  <path d="M300 220 L400 200 L350 330 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M80 300 L180 320 L120 400 Z" fill="url(#turquoise)"/>
+  <path d="M180 320 L270 350 L220 400 Z" fill="url(#pink)"/>
+  <path d="M270 350 L350 330 L400 400 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición central izquierda -->
+  <!-- Primera fila de triángulos -->
+  <path d="M0 400 L120 440 L60 520 Z" fill="url(#turquoise)"/>
+  <path d="M120 440 L200 400 L180 500 Z" fill="url(#pink)"/>
+  <path d="M200 400 L320 450 L250 530 Z" fill="url(#turquoise)"/>
+  <path d="M320 450 L400 400 L380 520 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M60 520 L180 500 L130 600 Z" fill="url(#pink)"/>
+  <path d="M180 500 L250 530 L220 610 Z" fill="url(#turquoise)"/>
+  <path d="M250 530 L380 520 L300 620 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M0 580 L130 600 L80 700 Z" fill="url(#turquoise)"/>
+  <path d="M130 600 L220 610 L180 720 Z" fill="url(#pink)"/>
+  <path d="M220 610 L300 620 L270 750 Z" fill="url(#turquoise)"/>
+  <path d="M300 620 L400 600 L350 730 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M80 700 L180 720 L120 800 Z" fill="url(#turquoise)"/>
+  <path d="M180 720 L270 750 L220 800 Z" fill="url(#pink)"/>
+  <path d="M270 750 L350 730 L400 800 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición inferior izquierda -->
+  <!-- Primera fila de triángulos -->
+  <path d="M0 800 L120 840 L60 920 Z" fill="url(#turquoise)"/>
+  <path d="M120 840 L200 800 L180 900 Z" fill="url(#pink)"/>
+  <path d="M200 800 L320 850 L250 930 Z" fill="url(#turquoise)"/>
+  <path d="M320 850 L400 800 L380 920 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M60 920 L180 900 L130 1000 Z" fill="url(#pink)"/>
+  <path d="M180 900 L250 930 L220 1010 Z" fill="url(#turquoise)"/>
+  <path d="M250 930 L380 920 L300 1020 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M0 980 L130 1000 L80 1080 Z" fill="url(#turquoise)"/>
+  <path d="M130 1000 L220 1010 L180 1080 Z" fill="url(#pink)"/>
+  <path d="M220 1010 L300 1020 L270 1080 Z" fill="url(#turquoise)"/>
+  <path d="M300 1020 L400 1000 L350 1080 Z" fill="url(#pink)"/>
+
+  <!-- Posición superior centro -->
+  <!-- Primera fila de triángulos -->
+  <path d="M400 0 L520 40 L460 120 Z" fill="url(#turquoise)"/>
+  <path d="M520 40 L600 0 L580 100 Z" fill="url(#pink)"/>
+  <path d="M600 0 L720 50 L650 130 Z" fill="url(#turquoise)"/>
+  <path d="M720 50 L800 0 L780 120 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M460 120 L580 100 L530 200 Z" fill="url(#pink)"/>
+  <path d="M580 100 L650 130 L620 210 Z" fill="url(#turquoise)"/>
+  <path d="M650 130 L780 120 L700 220 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M400 180 L530 200 L480 300 Z" fill="url(#turquoise)"/>
+  <path d="M530 200 L620 210 L580 320 Z" fill="url(#pink)"/>
+  <path d="M620 210 L700 220 L670 350 Z" fill="url(#turquoise)"/>
+  <path d="M700 220 L800 200 L750 330 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M480 300 L580 320 L520 400 Z" fill="url(#turquoise)"/>
+  <path d="M580 320 L670 350 L620 400 Z" fill="url(#pink)"/>
+  <path d="M670 350 L750 330 L800 400 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición centro -->
+  <!-- Primera fila de triángulos -->
+  <path d="M400 400 L520 440 L460 520 Z" fill="url(#turquoise)"/>
+  <path d="M520 440 L600 400 L580 500 Z" fill="url(#pink)"/>
+  <path d="M600 400 L720 450 L650 530 Z" fill="url(#turquoise)"/>
+  <path d="M720 450 L800 400 L780 520 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M460 520 L580 500 L530 600 Z" fill="url(#pink)"/>
+  <path d="M580 500 L650 530 L620 610 Z" fill="url(#turquoise)"/>
+  <path d="M650 530 L780 520 L700 620 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M400 580 L530 600 L480 700 Z" fill="url(#turquoise)"/>
+  <path d="M530 600 L620 610 L580 720 Z" fill="url(#pink)"/>
+  <path d="M620 610 L700 620 L670 750 Z" fill="url(#turquoise)"/>
+  <path d="M700 620 L800 600 L750 730 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M480 700 L580 720 L520 800 Z" fill="url(#turquoise)"/>
+  <path d="M580 720 L670 750 L620 800 Z" fill="url(#pink)"/>
+  <path d="M670 750 L750 730 L800 800 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición inferior centro -->
+  <!-- Primera fila de triángulos -->
+  <path d="M400 800 L520 840 L460 920 Z" fill="url(#turquoise)"/>
+  <path d="M520 840 L600 800 L580 900 Z" fill="url(#pink)"/>
+  <path d="M600 800 L720 850 L650 930 Z" fill="url(#turquoise)"/>
+  <path d="M720 850 L800 800 L780 920 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M460 920 L580 900 L530 1000 Z" fill="url(#pink)"/>
+  <path d="M580 900 L650 930 L620 1010 Z" fill="url(#turquoise)"/>
+  <path d="M650 930 L780 920 L700 1020 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M400 980 L530 1000 L480 1080 Z" fill="url(#turquoise)"/>
+  <path d="M530 1000 L620 1010 L580 1080 Z" fill="url(#pink)"/>
+  <path d="M620 1010 L700 1020 L670 1080 Z" fill="url(#turquoise)"/>
+  <path d="M700 1020 L800 1000 L750 1080 Z" fill="url(#pink)"/>
+
+  <!-- Posición superior derecha -->
+  <!-- Primera fila de triángulos -->
+  <path d="M800 0 L920 40 L860 120 Z" fill="url(#turquoise)"/>
+  <path d="M920 40 L1000 0 L980 100 Z" fill="url(#pink)"/>
+  <path d="M1000 0 L1120 50 L1050 130 Z" fill="url(#turquoise)"/>
+  <path d="M1120 50 L1200 0 L1180 120 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M860 120 L980 100 L930 200 Z" fill="url(#pink)"/>
+  <path d="M980 100 L1050 130 L1020 210 Z" fill="url(#turquoise)"/>
+  <path d="M1050 130 L1180 120 L1100 220 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M800 180 L930 200 L880 300 Z" fill="url(#turquoise)"/>
+  <path d="M930 200 L1020 210 L980 320 Z" fill="url(#pink)"/>
+  <path d="M1020 210 L1100 220 L1070 350 Z" fill="url(#turquoise)"/>
+  <path d="M1100 220 L1200 200 L1150 330 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M880 300 L980 320 L920 400 Z" fill="url(#turquoise)"/>
+  <path d="M980 320 L1070 350 L1020 400 Z" fill="url(#pink)"/>
+  <path d="M1070 350 L1150 330 L1200 400 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición centro derecha -->
+  <!-- Primera fila de triángulos -->
+  <path d="M800 400 L920 440 L860 520 Z" fill="url(#turquoise)"/>
+  <path d="M920 440 L1000 400 L980 500 Z" fill="url(#pink)"/>
+  <path d="M1000 400 L1120 450 L1050 530 Z" fill="url(#turquoise)"/>
+  <path d="M1120 450 L1200 400 L1180 520 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M860 520 L980 500 L930 600 Z" fill="url(#pink)"/>
+  <path d="M980 500 L1050 530 L1020 610 Z" fill="url(#turquoise)"/>
+  <path d="M1050 530 L1180 520 L1100 620 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M800 580 L930 600 L880 700 Z" fill="url(#turquoise)"/>
+  <path d="M930 600 L1020 610 L980 720 Z" fill="url(#pink)"/>
+  <path d="M1020 610 L1100 620 L1070 750 Z" fill="url(#turquoise)"/>
+  <path d="M1100 620 L1200 600 L1150 730 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M880 700 L980 720 L920 800 Z" fill="url(#turquoise)"/>
+  <path d="M980 720 L1070 750 L1020 800 Z" fill="url(#pink)"/>
+  <path d="M1070 750 L1150 730 L1200 800 Z" fill="url(#turquoise)"/>
+
+  <!-- Posición inferior derecha -->
+  <!-- Primera fila de triángulos -->
+  <path d="M800 800 L920 840 L860 920 Z" fill="url(#turquoise)"/>
+  <path d="M920 840 L1000 800 L980 900 Z" fill="url(#pink)"/>
+  <path d="M1000 800 L1120 850 L1050 930 Z" fill="url(#turquoise)"/>
+  <path d="M1120 850 L1200 800 L1180 920 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M860 920 L980 900 L930 1000 Z" fill="url(#pink)"/>
+  <path d="M980 900 L1050 930 L1020 1010 Z" fill="url(#turquoise)"/>
+  <path d="M1050 930 L1180 920 L1100 1020 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M800 980 L930 1000 L880 1080 Z" fill="url(#turquoise)"/>
+  <path d="M930 1000 L1020 1010 L980 1080 Z" fill="url(#pink)"/>
+  <path d="M1020 1010 L1100 1020 L1070 1080 Z" fill="url(#turquoise)"/>
+  <path d="M1100 1020 L1200 1000 L1150 1080 Z" fill="url(#pink)"/>
+
+  <!-- Extremo derecho superior -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1200 0 L1320 40 L1260 120 Z" fill="url(#turquoise)"/>
+  <path d="M1320 40 L1400 0 L1380 100 Z" fill="url(#pink)"/>
+  <path d="M1400 0 L1520 50 L1450 130 Z" fill="url(#turquoise)"/>
+  <path d="M1520 50 L1600 0 L1580 120 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M1260 120 L1380 100 L1330 200 Z" fill="url(#pink)"/>
+  <path d="M1380 100 L1450 130 L1420 210 Z" fill="url(#turquoise)"/>
+  <path d="M1450 130 L1580 120 L1500 220 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M1200 180 L1330 200 L1280 300 Z" fill="url(#turquoise)"/>
+  <path d="M1330 200 L1420 210 L1380 320 Z" fill="url(#pink)"/>
+  <path d="M1420 210 L1500 220 L1470 350 Z" fill="url(#turquoise)"/>
+  <path d="M1500 220 L1600 200 L1550 330 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M1280 300 L1380 320 L1320 400 Z" fill="url(#turquoise)"/>
+  <path d="M1380 320 L1470 350 L1420 400 Z" fill="url(#pink)"/>
+  <path d="M1470 350 L1550 330 L1600 400 Z" fill="url(#turquoise)"/>
+
+  <!-- Extremo derecho centro -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1200 400 L1320 440 L1260 520 Z" fill="url(#turquoise)"/>
+  <path d="M1320 440 L1400 400 L1380 500 Z" fill="url(#pink)"/>
+  <path d="M1400 400 L1520 450 L1450 530 Z" fill="url(#turquoise)"/>
+  <path d="M1520 450 L1600 400 L1580 520 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M1260 520 L1380 500 L1330 600 Z" fill="url(#pink)"/>
+  <path d="M1380 500 L1450 530 L1420 610 Z" fill="url(#turquoise)"/>
+  <path d="M1450 530 L1580 520 L1500 620 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M1200 580 L1330 600 L1280 700 Z" fill="url(#turquoise)"/>
+  <path d="M1330 600 L1420 610 L1380 720 Z" fill="url(#pink)"/>
+  <path d="M1420 610 L1500 620 L1470 750 Z" fill="url(#turquoise)"/>
+  <path d="M1500 620 L1600 600 L1550 730 Z" fill="url(#pink)"/>
+  <!-- Cuarta fila -->
+  <path d="M1280 700 L1380 720 L1320 800 Z" fill="url(#turquoise)"/>
+  <path d="M1380 720 L1470 750 L1420 800 Z" fill="url(#pink)"/>
+  <path d="M1470 750 L1550 730 L1600 800 Z" fill="url(#turquoise)"/>
+
+  <!-- Extremo derecho inferior -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1200 800 L1320 840 L1260 920 Z" fill="url(#turquoise)"/>
+  <path d="M1320 840 L1400 800 L1380 900 Z" fill="url(#pink)"/>
+  <path d="M1400 800 L1520 850 L1450 930 Z" fill="url(#turquoise)"/>
+  <path d="M1520 850 L1600 800 L1580 920 Z" fill="url(#pink)"/>
+  <!-- Segunda fila -->
+  <path d="M1260 920 L1380 900 L1330 1000 Z" fill="url(#pink)"/>
+  <path d="M1380 900 L1450 930 L1420 1010 Z" fill="url(#turquoise)"/>
+  <path d="M1450 930 L1580 920 L1500 1020 Z" fill="url(#pink)"/>
+  <!-- Tercera fila -->
+  <path d="M1200 980 L1330 1000 L1280 1080 Z" fill="url(#turquoise)"/>
+  <path d="M1330 1000 L1420 1010 L1380 1080 Z" fill="url(#pink)"/>
+  <path d="M1420 1010 L1500 1020 L1470 1080 Z" fill="url(#turquoise)"/>
+  <path d="M1500 1020 L1600 1000 L1550 1080 Z" fill="url(#pink)"/>
+  
+  <!-- Último extremo derecho superior -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1600 0 L1720 40 L1660 120 Z" fill="url(#turquoise)"/>
+  <path d="M1720 40 L1800 0 L1780 100 Z" fill="url(#pink)"/>
+  <path d="M1800 0 L1920 50 L1850 130 Z" fill="url(#turquoise)"/>
+  <!-- Segunda fila -->
+  <path d="M1660 120 L1780 100 L1730 200 Z" fill="url(#pink)"/>
+  <path d="M1780 100 L1850 130 L1820 210 Z" fill="url(#turquoise)"/>
+  <!-- Tercera fila -->
+  <path d="M1600 180 L1730 200 L1680 300 Z" fill="url(#turquoise)"/>
+  <path d="M1730 200 L1820 210 L1780 320 Z" fill="url(#pink)"/>
+  <path d="M1820 210 L1920 200 L1870 330 Z" fill="url(#turquoise)"/>
+  <!-- Cuarta fila -->
+  <path d="M1680 300 L1780 320 L1720 400 Z" fill="url(#turquoise)"/>
+  <path d="M1780 320 L1870 330 L1920 400 Z" fill="url(#pink)"/>
+
+  <!-- Último extremo derecho centro -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1600 400 L1720 440 L1660 520 Z" fill="url(#turquoise)"/>
+  <path d="M1720 440 L1800 400 L1780 500 Z" fill="url(#pink)"/>
+  <path d="M1800 400 L1920 450 L1850 530 Z" fill="url(#turquoise)"/>
+  <!-- Segunda fila -->
+  <path d="M1660 520 L1780 500 L1730 600 Z" fill="url(#pink)"/>
+  <path d="M1780 500 L1850 530 L1820 610 Z" fill="url(#turquoise)"/>
+  <!-- Tercera fila -->
+  <path d="M1600 580 L1730 600 L1680 700 Z" fill="url(#turquoise)"/>
+  <path d="M1730 600 L1820 610 L1780 720 Z" fill="url(#pink)"/>
+  <path d="M1820 610 L1920 600 L1870 730 Z" fill="url(#turquoise)"/>
+  <!-- Cuarta fila -->
+  <path d="M1680 700 L1780 720 L1720 800 Z" fill="url(#turquoise)"/>
+  <path d="M1780 720 L1870 730 L1920 800 Z" fill="url(#pink)"/>
+
+  <!-- Último extremo derecho inferior -->
+  <!-- Primera fila de triángulos -->
+  <path d="M1600 800 L1720 840 L1660 920 Z" fill="url(#turquoise)"/>
+  <path d="M1720 840 L1800 800 L1780 900 Z" fill="url(#pink)"/>
+  <path d="M1800 800 L1920 850 L1850 930 Z" fill="url(#turquoise)"/>
+  <!-- Segunda fila -->
+  <path d="M1660 920 L1780 900 L1730 1000 Z" fill="url(#pink)"/>
+  <path d="M1780 900 L1850 930 L1820 1010 Z" fill="url(#turquoise)"/>
+  <!-- Tercera fila -->
+  <path d="M1600 980 L1730 1000 L1680 1080 Z" fill="url(#turquoise)"/>
+  <path d="M1730 1000 L1820 1010 L1780 1080 Z" fill="url(#pink)"/>
+  <path d="M1820 1010 L1920 1000 L1870 1080 Z" fill="url(#turquoise)"/>
+  
+  <!-- Triángulos adicionales para llenar huecos -->
+  <!-- Esquina superior derecha -->
+  <path d="M1850 130 L1920 50 L1920 200 Z" fill="url(#pink)"/>
+  
+  <!-- Esquina lateral derecha superior -->
+  <path d="M1870 330 L1920 200 L1920 400 Z" fill="url(#turquoise)"/>
+  
+  <!-- Esquina lateral derecha centro -->
+  <path d="M1870 730 L1920 600 L1920 800 Z" fill="url(#pink)"/>
+  
+  <!-- Esquina inferior derecha -->
+  <path d="M1870 1080 L1920 1000 L1920 1080 Z" fill="url(#turquoise)"/>
+  
+  <!-- Relleno de esquina inferior izquierda -->
+  <path d="M0 1080 L80 1080 L0 1000 Z" fill="url(#pink)"/>
+  
+  <!-- Esquina superior izquierda - pequeño triángulo faltante -->
+  <path d="M0 0 L0 40 L20 20 Z" fill="url(#pink)"/>
+</svg>
