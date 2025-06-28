@@ -210,8 +210,8 @@ const PacienteFinanzasView = () => {
 
       setLoading(false);
     } catch (err) {
-      console.error('Error al cargar datos financieros:', err);
-      showNotif('Error al cargar información financiera', 'error');
+      console.error('Error al cargar datos financieros :', err);
+      showNotif('Error al cargar información financiera ', 'error');
       setLoading(false);
     }
   }, [user?.id, showNotif]);
@@ -247,8 +247,8 @@ const PacienteFinanzasView = () => {
         setShowDetails(true);
         setLoading(false);
       } catch (err) {
-        console.error('Error al cargar detalles del pago:', err);
-        showNotif('Error al cargar detalles del pago', 'error');
+        console.error('Error al cargar detalles del pago: ', err);
+        showNotif('Error al cargar detalles del pago ', 'error');
         setLoading(false);
       }
     } else {
@@ -283,7 +283,7 @@ const PacienteFinanzasView = () => {
     
     if (Object.keys(errors).length > 0) {
       setFormErrors(errors);
-      showNotif('Complete todos los campos requeridos', 'warning');
+      showNotif('Complete todos los campos requeridos ', 'warning');
       return;
     }
 
